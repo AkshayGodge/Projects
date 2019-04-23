@@ -1,0 +1,11 @@
+{
+  "name": "cw4",
+  "version": "1.0.0",
+  "description": "read json file",
+  "main": "cw4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Group MIS6383 7",
+  "license": "ISC"
+}
